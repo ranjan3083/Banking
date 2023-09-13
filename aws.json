@@ -39,7 +39,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "afa8a32ec29a31f152ba20a30eb483520fe50f2dce6c9aa9135d88f7c9c511d7.elf",
+                    "name": "HEUR-BackdoorLinuxBpfdoor.elf",
                     "hashes": {
                         "SHA-256": "afa8a32ec29a31f152ba20a30eb483520fe50f2dce6c9aa9135d88f7c9c511d7"
                     },
@@ -153,7 +153,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "a06793d2cc3ec630aaaec03be1a8657e2a8ecac58662532dfd2e843690d8d834.exe",
+                    "name": "galvanotherapy.exe",
                     "hashes": {
                         "SHA-256": "413c9fcea027f89b9d8905ca6ae96cc099b8886fb3916876a4029e92d56fcb9b"
                     },
@@ -191,7 +191,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "olt-pie.msx",
+                    "name": "AgileDotNet.exe",
                     "hashes": {
                         "MD5": "30f8b1dd66d0346d7f23e5c973abfeaf"
                     },
